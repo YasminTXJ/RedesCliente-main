@@ -88,6 +88,6 @@ Funcionalidade: Comando que o servidor envia ao cliente informando que ele ganho
 Quem executa: Servidor.
 Funcionalidade: Comando que o servidor envia ao cliente informando que ele perdeu o jogo.Deve ser enviado dentro da  tag %fimDeJogo%.
 
-	1.22.	%personagemSorteado% 
+%personagemSorteado% 
 Quem executa: Servidor
 Funcionalidade: Comando que contém o id do personagem sorteado para cada cliente, esse é o personagem que o outro cliente terá que acertar.
